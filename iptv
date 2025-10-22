@@ -212,8 +212,8 @@ CETV-4,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 MTV Live,http://212.102.60.231:80/MTV_LIVE/index.m3u8
 MTV Liveᵀʷ,http://66.90.99.154:8278/mtvhd_twn/playlist.m3u8?tid=MF4F6164672861646728&ct=20363&tsum=c2a3cfe1511f8aa42e89036b6f5035d5
 地方频道,#genre# 
-北京淘娱乐,http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.100:8001#http://114.243.110.101:8822/rtp/239.3.1.100:8001#http://111.196.128.79:8686/rtp/239.3.1.100:8001
-北京淘剧场,http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.95:8001#http://114.243.110.101:8822/rtp/239.3.1.95:8001#http://111.196.128.79:8686/rtp/239.3.1.95:8001
+北京淘娱乐,http://123.116.149.244:9999/rtp/239.3.1.100:8001#http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.100:8001#http://114.243.110.101:8822/rtp/239.3.1.100:8001#http://111.196.128.79:8686/rtp/239.3.1.100:8001
+北京淘剧场,http://123.116.149.244:9999/rtp/239.3.1.95:8001#http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.95:8001#http://114.243.110.101:8822/rtp/239.3.1.95:8001#http://111.196.128.79:8686/rtp/239.3.1.95:8001
 湖南都市,http://39.134.240.3/PLTV/2/224/3221226146/index.m3u8
 湖南都市,http://39.134.242.92:80/180000001002/00000001000000000007000000001249/main.m3u8
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
@@ -236,7 +236,7 @@ ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 峨眉电影,https://stream1.freetv.fun/4b000a541e51690025326cffbf43d0e994a6327abaa0dc59b79021949e62d289.ctv
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 电影频道,#genre#
-北京淘电影,http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.250:8001#http://114.243.110.101:8822/rtp/239.3.1.250:8001#http://111.196.128.79:8686/rtp/239.3.1.250:8001
+北京淘电影,#http://123.116.149.244:9999/rtp/239.3.1.250:8001http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.250:8001#http://114.243.110.101:8822/rtp/239.3.1.250:8001#http://111.196.128.79:8686/rtp/239.3.1.250:8001
 黑莓电影,http://39.134.13.35:6610/000000001000/1000000004000019624/index.m3u8?
 黑莓电影,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
 CHC家庭影院,http://39.134.242.92:80/180000001002/00000001000000000050000000448840/main.m3u8#https://stream1.freetv.fun/2b45ab26788c821401371dbf86a901788c370be24c871d66c9f0e0e38a26997f.ctv#http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
@@ -251,7 +251,7 @@ AMC电影,http://114.34.40.48:50008/4gtv-4gtv017/index.m3u8?proxy=true
 靖天电影,http://114.34.40.48:50008/li-4gtv-4gtv061/index.m3u8?proxy=true
 卡通频道,#genre#
 动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/index.m3u8
-北京淘Baby,http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.238:8001#http://114.243.110.101:8822/rtp/239.3.1.238:8001#http://111.196.128.79:8686/rtp/239.3.1.238:8001
+北京淘Baby,http://123.116.149.244:9999/rtp/239.3.1.238:8001#http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.238:8001#http://114.243.110.101:8822/rtp/239.3.1.238:8001#http://111.196.128.79:8686/rtp/239.3.1.238:8001
 CN卡通,http://205.185.120.57:8081/channel/n7ae3a06c/index.m3u8#http://66.90.99.154:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 黑莓动画,http://39.134.13.35:6610/000000001000/1000000004000021734/index.m3u8?
 黑莓动画,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8
@@ -343,7 +343,7 @@ LTV频道,#genre#
 CCTV4K,http://[2409:8087:5000:21::1016]:8089/180000001001/32023092211020848462000290559536/main.m3u8?
 峨眉电影4k,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL2xpbnFpdXNoLnRvcDo5NTU3L2VkZ2UtY2FjaGUwMi5saXZlMy5vbWQuc2M5NjY1NS5jb20vbGl2ZS9lbWR5NGtfODAwMC5tM3U4
 纯享4K,http://39.134.13.35:6610/000000001000/1000000004000011651/index.m3u8?
-北京4K超清,http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.249:8001#http://114.243.110.101:8822/rtp/239.3.1.249:8001#http://111.196.128.79:8686/rtp/239.3.1.249:8001
+北京4K超清,http://123.116.149.244:9999/rtp/239.3.1.249:8001#http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.249:8001#http://114.243.110.101:8822/rtp/239.3.1.249:8001#http://111.196.128.79:8686/rtp/239.3.1.249:8001
 北京卫视4k,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=bjws
 湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com:80/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
