@@ -209,8 +209,7 @@ CETV-2,http://39.134.67.141:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212
 CETV-4,http://39.134.13.35:6610/000000001000/1000000005000025333/index.m3u8?
 CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/index.m3u8
 CETV-4,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-MTV Live,http://212.102.60.231:80/MTV_LIVE/index.m3u8
-MTV Liveᵀʷ,http://66.90.99.154:8278/mtvhd_twn/playlist.m3u8?tid=MF4F6164672861646728&ct=20363&tsum=c2a3cfe1511f8aa42e89036b6f5035d5
+MTV Live,http://66.90.99.154:8278/mtvhd_twn/playlist.m3u8?tid=MF4F6164672861646728&ct=20363&tsum=c2a3cfe1511f8aa42e89036b6f5035d5
 地方频道,#genre# 
 北京淘娱乐,http://123.116.149.244:9999/rtp/239.3.1.100:8001#http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.100:8001#http://114.243.110.101:8822/rtp/239.3.1.100:8001#http://111.196.128.79:8686/rtp/239.3.1.100:8001
 北京淘剧场,http://123.116.149.244:9999/rtp/239.3.1.95:8001#http://masiqi.myqnapcloud.com:4022/rtp/239.3.1.95:8001#http://114.243.110.101:8822/rtp/239.3.1.95:8001#http://111.196.128.79:8686/rtp/239.3.1.95:8001
